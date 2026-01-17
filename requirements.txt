@@ -1,0 +1,6 @@
+# Requirements for Console Tamagotchi
+# Only standard library is used in version 1.
+# Add packages here if new dependencies are introduced.
+
+# Example (uncomment when needed):
+# pytest

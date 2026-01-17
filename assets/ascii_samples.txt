@@ -1,0 +1,6 @@
+# Example ASCII art for the Tamagotchi pet
+# You can add more designs later
+
+  /\_/\
+ ( o.o )
+  > ^ <
